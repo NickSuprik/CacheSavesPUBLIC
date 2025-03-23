@@ -1,0 +1,20 @@
+Firefox:
+%localappdata%\Local\Mozilla\Firefox\Profiles
++
+%appdata%\Mozilla\Firefox\Profiles
+
+
+Chrome:
+%localappdata%\Google\Chrome\User Data
+
+
+Edge: 
+%localappdata%\Microsoft\Edge\User Data
+
+
+Brave:
+%localappdata%\BraveSoftware\Brave-Browser\User Data
+
+Safari???
+
+Yandex???
