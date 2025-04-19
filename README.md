@@ -1,7 +1,7 @@
 # Browser Cache Management Tool
 
 ## Overview
-This powerful and flexible **Browser Cache Management Tool** allows users to **save (backup) and load** their browser cache beyond built-in browser management capabilities. By using a structured command-line interface, users gain greater control over their cache data while ensuring efficient storage and retrieval.
+This powerful and flexible **Browser Cache Management Tool** batch file allows users to **save (backup) and load** their browser cache beyond built-in browser management capabilities. By using a structured command-line interface, users gain greater control over their cache data while ensuring efficient storage and retrieval.
 
 ## Purpose
 Modern browsers offer cache management, but often with limited user control. This tool aims to:
